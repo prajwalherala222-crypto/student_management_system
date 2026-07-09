@@ -1,0 +1,37 @@
+[
+    {
+        "roll_num": 1,
+        "name": "PRAJWAL HERALA U",
+        "age": 21,
+        "marks": 100,
+        "course": "DS"
+    },
+    {
+        "roll_num": 2,
+        "name": "ASHLY MOL",
+        "age": 28,
+        "marks": 100,
+        "course": "DS"
+    },
+    {
+        "roll_num": 3,
+        "name": "APARNA R",
+        "age": 26,
+        "marks": 98,
+        "course": "DA"
+    },
+    {
+        "roll_num": 4,
+        "name": "FLEMIN PJ",
+        "age": 24,
+        "marks": 95,
+        "course": "DS"
+    },
+    {
+        "roll_num": 5,
+        "name": "PRABHATH",
+        "age": 21,
+        "marks": 100,
+        "course": "DS"
+    }
+]
